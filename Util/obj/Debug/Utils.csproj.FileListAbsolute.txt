@@ -1,0 +1,6 @@
+D:\Chelo\Proyectos\Ofertas\Util\bin\Debug\Util.dll
+D:\Chelo\Proyectos\Ofertas\Util\bin\Debug\Util.pdb
+D:\Chelo\Proyectos\Ofertas\Util\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\Chelo\Proyectos\Ofertas\Util\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Chelo\Proyectos\Ofertas\Util\obj\Debug\Util.dll
+D:\Chelo\Proyectos\Ofertas\Util\obj\Debug\Util.pdb

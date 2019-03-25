@@ -1,0 +1,14 @@
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Servicios.dll
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Servicios.pdb
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\DataProvider.dll
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Entidades.dll
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Util.dll
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\DataProvider.pdb
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Entidades.pdb
+D:\Chelo\Proyectos\Ofertas\Servicios\bin\Debug\Util.pdb
+D:\Chelo\Proyectos\Ofertas\Servicios\obj\Debug\Servicios.csprojAssemblyReference.cache
+D:\Chelo\Proyectos\Ofertas\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+D:\Chelo\Proyectos\Ofertas\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+D:\Chelo\Proyectos\Ofertas\Servicios\obj\Debug\Servicios.dll
+D:\Chelo\Proyectos\Ofertas\Servicios\obj\Debug\Servicios.pdb
